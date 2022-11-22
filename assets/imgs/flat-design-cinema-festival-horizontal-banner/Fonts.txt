@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Alfa Slab One
+Author: JM Solé
+Url: https://fonts.google.com/specimen/Alfa+Slab+One
+
+Font: Montserrat
+Author: Julieta Ulanovsky,Sol Matas,Juan Pablo del Peral,Jacques Le Bailly
+Url: https://fonts.google.com/specimen/Montserrat
